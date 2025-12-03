@@ -1,0 +1,8 @@
+{
+  "name": "Neuro.Form Launchpad",
+  "description": "Стратегическая ИИ-панель для создания виральных цифровых продуктов. Включает анализ рынка, видео-воронки Veo, брендинг Nano Banana и мозговые штурмы Live.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
